@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+/* --------- */
+.image-div {
+  display: flex;
+  gap: 20px;
+  margin-inline: 1rem;
+}
+
+.my-img {
+  width: 100%;
+  height: 100%;
+}
+
+.btn-div {
+  display: flex;
+}
+
+.my-btn {
+  padding: 5px 10px;
+  margin-inline: 5px;
+}
+
+.cyan {
+  background-color: cyan;
+}
+
+.green {
+  background-color: green;
+}
+
+.red {
+  background-color: red;
+}
